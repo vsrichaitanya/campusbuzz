@@ -1,0 +1,137 @@
+name: campusbuzz
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  auth_handler: ^1.0.0
+  awesome_dialog: ^3.1.0
+  connectivity_plus: ^4.0.2
+  custom_alert_dialog_box: ^1.0.2
+  dart_eval: ^0.6.0
+  easy_rich_text: ^2.0.0
+  email_auth: ^1.0.0
+  firebase_auth: ^4.7.2
+  firebase_core: ^2.15.0
+  firebase_core_platform_interface: 5.0.0
+  firebase_database: ^10.2.5
+  firebase_messaging: ^14.7.10
+  firebase_storage: ^11.2.8
+  flutter_barcode_scanner: ^2.0.0
+  barcode: ^2.2.4
+  path_provider: ^2.1.1
+  shared_preferences: ^2.2.2
+  
+
+  flutter:
+    sdk: flutter
+  carousel_slider: ^4.2.1
+  readmore: ^2.2.0
+  provider: ^6.0.5
+  material_design_icons_flutter: ^7.0.7296
+  transparent_image: ^2.0.1
+  image_picker: ^1.0.2
+  url_launcher: ^6.0.9
+  flutter_local_notifications: ^15.1.0+1
+  function_tree: ^0.8.13
+  get: ^4.6.5
+  google_sign_in: ^6.1.4
+  internet_connection_checker: ^1.0.0+1
+  internet_connection_checker_plus: ^1.0.1
+  js: ^0.6.7
+  logger: ^2.0.1
+  observe_internet_connectivity: ^1.0.2
+  overlay_support: ^2.1.0
+  invoiceninja: ^0.0.11
+  flutter_typeahead: ^4.6.2
+  app_settings: ^5.0.0
+  cloud_firestore: ^4.14.0
+  flutter_riverpod: ^2.4.0
+  # geocoding: ^2.1.1
+  barcode_widget: ^2.0.4
+  confetti: ^0.7.0
+  open_file: ^3.3.2
+  intl: ^0.18.1
+  open_document: ^1.0.7
+  flutter_pdfview: ^1.3.2
+  syncfusion_flutter_pdf: ^23.1.44
+  cached_network_image: ^3.3.1
+  
+  flutter_native_splash: ^2.3.2
+  shimmer: ^3.0.0
+  file_picker: ^6.1.1
+
+  phonepe_payment_sdk: ^1.1.0
+  crypto: ^3.0.3
+
+
+# flutter_native_splash:
+#   image: images/spalsh.png
+#   color: "#42a5f5"
+#   android: true
+#   ios: true
+#   web: false
+#   background_image: "images/spalsh.png"
+  
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+
+    - assets/images/comp.png
+    - assets/images/dj.png
+    - assets/images/first.jpg
+    - assets/images/forgot.png
+    - assets/images/googleeee.png
+    - assets/images/third.jpg
+    - assets/images/welcome.png
+    - images/event1.jpg
+    - images/event3.png
+    - images/event4.jpg
+    - images/event5.webp
+    - images/dance.jpg
+    - images/music.jpg
+    - images/event.jpg
+    - assets/images/loggo.png
+    - images/b1.jpeg
+    - images/b2.jpg
+    - images/b3.jpg 
+    - images/hacktopia.png
+    - images/1real.jpg
+    - images/2.png 
+    - images/4.jpg
+    - images/5.jpg 
+    - images/6.jpg 
+    - images/vnrvjiet.jpg
+    - images/jntu.jpg   
+    - images/7.jpg 
+    - images/spec.png 
+    - images/cheri.jpg
+    - images/sahitya.webp
+    - images/dance.jpg
+    - images/malla.jpg
+    - images/bore.jpg
+    - images/rishi.jpg
+    - images/yt.png
+    - svg/bell_3.png
+    - svg/realloaction.png
+    - images/festt.png
+    - images/sportt.png
+    - images/techh.png
+    - images/f1.jpg
+    - images/f2.jpg
+
+
+
+    
+
